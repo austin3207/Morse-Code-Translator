@@ -1,0 +1,13 @@
+C:\Users\Austin\source\repos\MorseCodeProject\bin\Debug\netcoreapp3.1\MorseCodeProject.exe
+C:\Users\Austin\source\repos\MorseCodeProject\bin\Debug\netcoreapp3.1\MorseCodeProject.deps.json
+C:\Users\Austin\source\repos\MorseCodeProject\bin\Debug\netcoreapp3.1\MorseCodeProject.runtimeconfig.json
+C:\Users\Austin\source\repos\MorseCodeProject\bin\Debug\netcoreapp3.1\MorseCodeProject.runtimeconfig.dev.json
+C:\Users\Austin\source\repos\MorseCodeProject\bin\Debug\netcoreapp3.1\MorseCodeProject.dll
+C:\Users\Austin\source\repos\MorseCodeProject\bin\Debug\netcoreapp3.1\MorseCodeProject.pdb
+C:\Users\Austin\source\repos\MorseCodeProject\obj\Debug\netcoreapp3.1\MorseCodeProject.csprojAssemblyReference.cache
+C:\Users\Austin\source\repos\MorseCodeProject\obj\Debug\netcoreapp3.1\MorseCodeProject.AssemblyInfoInputs.cache
+C:\Users\Austin\source\repos\MorseCodeProject\obj\Debug\netcoreapp3.1\MorseCodeProject.AssemblyInfo.cs
+C:\Users\Austin\source\repos\MorseCodeProject\obj\Debug\netcoreapp3.1\MorseCodeProject.csproj.CoreCompileInputs.cache
+C:\Users\Austin\source\repos\MorseCodeProject\obj\Debug\netcoreapp3.1\MorseCodeProject.dll
+C:\Users\Austin\source\repos\MorseCodeProject\obj\Debug\netcoreapp3.1\MorseCodeProject.pdb
+C:\Users\Austin\source\repos\MorseCodeProject\obj\Debug\netcoreapp3.1\MorseCodeProject.genruntimeconfig.cache
